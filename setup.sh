@@ -13,9 +13,6 @@ yes | sudo apt install npm
 #Editor
 yes | sudo apt install vim emacs
 
-#SetupEditor
-wget https://raw.githubusercontent.com/KNCT-KPC/dotfiles/master/.vimrc
-
 #Tool
 yes | sudo apt install tree
 yes | sudo apt install curl
