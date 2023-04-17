@@ -1,1 +1,1 @@
-# setUpScripts
+# setupScripts
