@@ -28,7 +28,7 @@ yes | sudo apt install cowsay
 yes | sudo apt install screenfetch
 
 #VSCode
-#https://inno-tech-life.com/dev/linux/install_vscode/ 参照
+# https://inno-tech-life.com/dev/linux/install_vscode/ 参照
 # GPGキーをダウンロード(配布先のものが改ざん等がないかを確認するための公開鍵) 
 # apt-key add にて信頼できるキーとして登録
 wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
